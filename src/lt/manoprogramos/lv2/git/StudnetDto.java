@@ -1,6 +1,6 @@
 package lt.manoprogramos.lv2.git;
 
-public class Studnet {
+public class StudnetDto {
     public final String name() {
         return name();
 
