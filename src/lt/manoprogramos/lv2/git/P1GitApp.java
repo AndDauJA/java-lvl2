@@ -5,4 +5,6 @@ public class P1GitApp {
         System.out.println("labutis");
     }
 
+    public P1GitApp() {
+    }
 }
