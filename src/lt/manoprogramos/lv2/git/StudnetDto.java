@@ -5,4 +5,9 @@ public class StudnetDto {
         return name();
 
     }
+    public final String surname(){
+
+        return surname();
+    }
+
 }
