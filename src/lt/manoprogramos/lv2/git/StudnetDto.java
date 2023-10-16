@@ -10,4 +10,6 @@ public class StudnetDto {
         return surname();
     }
 
+    public StudnetDto() {
+    }
 }
